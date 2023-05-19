@@ -1,0 +1,1 @@
+import{_ as t,o as c,f as e,w as s,K as a,g as n}from"./app-e0df21d0.js";const _={},r=n("div",{class:"not-found"},[n("h1",null," ~❀~ 没有找到此页面内容，去别处逛逛 ~❀~ ")],-1);function f(i,l){const o=a;return c(),e(o,null,{"main-content":s(()=>[r]),_:1})}const u=t(_,[["render",f]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as t}from"./AuroraPage.vue_vue_type_script_setup_true_lang-0bfcf36c.js";import{b as o}from"./route-block-83d24a4e.js";import{_ as e,o as n,f as _}from"./app-e0df21d0.js";import"./AuroraPostCard.vue_vue_type_script_setup_true_lang-f7455fce.js";const r={};function a(f,s){const c=t;return n(),_(c)}typeof o=="function"&&o(r);const d=e(r,[["render",a]]);export{d as default};
